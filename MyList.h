@@ -1,5 +1,5 @@
 #pragma once
-
+//Chicken Fries
 typedef  char* DataType;
 
 struct node 

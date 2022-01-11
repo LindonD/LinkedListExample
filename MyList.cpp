@@ -3,7 +3,7 @@
 #include "MyList.h"
 //Makhosi
 using namespace std;
-
+//Chicken Fries
 void Init (List& L)
 { L = NULL; } // L points to  nothing;}
 
