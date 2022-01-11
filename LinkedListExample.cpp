@@ -3,7 +3,7 @@
 #include "MyList.h" 
 #include <iostream>
 using namespace std;
-
+//Makhosi
 
 int _tmain(int argc, _TCHAR* argv[]){
 	List L;
